@@ -194,7 +194,7 @@ public class MerryChristmas extends JPanel {
 	}
 
 	public static void main(String[] args) {
-		JFrame frame = new JFrame("Fly");
+		JFrame frame = new JFrame("Christmas Fly");
 		MerryChristmas game = new MerryChristmas(); // 面板对象
 		frame.add(game); // 将面板添加到JFrame中
 		frame.setSize(WIDTH + 3 + 3, HEIGHT + 37 + 3); // 设置大小=内容面板+边框宽度
