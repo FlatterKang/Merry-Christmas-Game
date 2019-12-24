@@ -6,4 +6,4 @@ MerryChristmas.jar is an expoerted Runnable jar file, you can play it by these s
 3. Use "java -jar MerryChristmas.jar" to run the game.
 4. Have a good Christmas eve!
 5. If you have a better idea, welcome to contact me at:njkangshibo@163.com
-6. Powered by 康世博 Nanjing University of Posts and Telecommunication, all Rights Reserved. Please indicate the source if you want to use it elsewhere.
+6. Powered by 康世博 at Nanjing University of Posts and Telecommunication, all Rights Reserved. Please indicate the source if you want to use it elsewhere.
